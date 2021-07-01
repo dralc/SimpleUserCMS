@@ -34,7 +34,7 @@
     "morgan": "1.9.1",
     "nanographql": "2.0.0",
     "serverless-http": "2.3.2",
-    "sirv-cli": "0.4.5"
+    "sirv-cli": "1.0.12"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "11.0.2",
