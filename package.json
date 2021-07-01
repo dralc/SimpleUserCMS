@@ -30,7 +30,7 @@
     "debug": "2.6.9",
     "express": "4.16.4",
     "http-errors": "1.6.3",
-    "ioredis": "4.16.0",
+    "ioredis": "4.27.6",
     "morgan": "1.9.1",
     "nanographql": "2.0.0",
     "serverless-http": "2.3.2",
