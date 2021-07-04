@@ -27,7 +27,7 @@
     "@auth0/auth0-spa-js": "1.8.2",
     "apollo-server-express": "2.14.2",
     "cookie-parser": "1.4.4",
-    "debug": "2.6.9",
+    "debug": "4.3.2",
     "express": "4.16.4",
     "http-errors": "1.6.3",
     "ioredis": "4.16.0",
